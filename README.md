@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ayoyinka Bilawu</h1>
+<h1 align="center">Hi there 👋, I'm Ayoyinka Bilawu</h1> 
 <h3 align="center">A Creative Developer & Tech Solutions Provider</h3>
 
 <p align="center">
@@ -23,7 +23,7 @@ I help individuals, schools, and businesses build reliable, modern, and sustaina
 
 ### 🛠️ Skills & Tools
 
-bash
+```bash
 💻 Web:        HTML | CSS | WordPress | GitHub | Blogger | Hosting & Domains
 🎨 Design:     Canva | CorelDRAW | Figma (Basics)
 🔌 Tech:       Networking | CCTV | Power Backup Systems
@@ -49,18 +49,17 @@ bash
 🎨 Custom Graphics – Flyers, banners, and logos for clients across Nigeria
 
 📈 GitHub Stats
-![Ayoyinka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordayoyinka&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lordayoyinka&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordayoyinka&layout=compact&theme=github_dark)
 
 
 
 
+
+
+🌟 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lordayoyinka&theme=darkhub&no-bg=true&margin-w=15" /> </p>
 📬 Let's Connect
 🌐 lordayoyinka.github.io
 
-💼 GitHub
+💼 GitHub Profile
 
-📧 Feel free to reach out via LinkedIn or portfolio contact form
+📧 Reach out via LinkedIn or portfolio contact form
