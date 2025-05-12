@@ -49,7 +49,15 @@ I help individuals, schools, and businesses build reliable, modern, and sustaina
 🎨 Custom Graphics – Flyers, banners, and logos for clients across Nigeria
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lordayoyinka&show_icons=true&theme=github_dark" alt="lordayoyinka stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordayoyinka&theme=github-dark" alt="streak stats" width="48%"/> </p>
+
+![Ayoyinka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordayoyinka&show_icons=true&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lordayoyinka&theme=github-dark)
+
+🚀 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordayoyinka&layout=compact&theme=github_dark)
+
+
 📬 Let's Connect
 🌐 lordayoyinka.github.io
 
@@ -57,4 +65,4 @@ I help individuals, schools, and businesses build reliable, modern, and sustaina
 
 📧 Feel free to reach out via LinkedIn or portfolio contact form
 
-<p align="center">Thank you for visiting my profile! 😊</p>
+Thank you for visiting my profile! 😊
