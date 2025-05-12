@@ -24,8 +24,11 @@ I help individuals, schools, and businesses build reliable, modern, and sustaina
 ### 🛠️ Skills & Tools
 
 💻 Web:        HTML | CSS | WordPress | GitHub | Blogger | Hosting & Domains
+
 🎨 Design:     Canva | CorelDRAW | Figma (Basics)
+
 🔌 Tech:       Networking | CCTV | Power Backup Systems
+
 🔋 Energy:     Inverter Sizing | Solar Panel Installation
 
 🚀 Services I Offer
