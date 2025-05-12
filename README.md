@@ -24,7 +24,7 @@ I help individuals, schools, and businesses build reliable, modern, and sustaina
 ### 🛠️ Skills & Tools
 
 
-💻 Web:        HTML | CSS | WordPress | GitHub | Blogger | Hosting & Domains
+```bash 💻 Web:        HTML | CSS | WordPress | GitHub | Blogger | Hosting & Domains
 🎨 Design:     Canva | CorelDRAW | Figma (Basics)
 🔌 Tech:       Networking | CCTV | Power Backup Systems
 🔋 Energy:     Inverter Sizing | Solar Panel Installation
@@ -46,7 +46,7 @@ I help individuals, schools, and businesses build reliable, modern, and sustaina
 
 🏫 School Website – WordPress redesign for an educational institution
 
-🎨 Custom Graphics – Flyers, banners, and logos for clients across Nigeria
+🎨 Custom Graphics – Flyers, banners, and logos for clients across Nigeria ---
 
 📈 GitHub Stats
 
