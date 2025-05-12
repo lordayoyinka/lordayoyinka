@@ -23,7 +23,7 @@ I help individuals, schools, and businesses build reliable, modern, and sustaina
 
 ### 🛠️ Skills & Tools
 
-```bash
+bash
 💻 Web:        HTML | CSS | WordPress | GitHub | Blogger | Hosting & Domains
 🎨 Design:     Canva | CorelDRAW | Figma (Basics)
 🔌 Tech:       Networking | CCTV | Power Backup Systems
