@@ -23,7 +23,7 @@ I help individuals, schools, and businesses build reliable, modern, and sustaina
 
 ### 🛠️ Skills & Tools
 
-```bash
+
 💻 Web:        HTML | CSS | WordPress | GitHub | Blogger | Hosting & Domains
 🎨 Design:     Canva | CorelDRAW | Figma (Basics)
 🔌 Tech:       Networking | CCTV | Power Backup Systems
@@ -58,9 +58,8 @@ I help individuals, schools, and businesses build reliable, modern, and sustaina
 🌟 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lordayoyinka&theme=darkhub&no-bg=true&margin-w=15" /> </p>
 
-📬 Let's Connect
-🌐 lordayoyinka.github.io
+### 📬 Let's Connect
 
-💼 GitHub Profile
-
-📧 Reach out via LinkedIn or portfolio contact form
+- 🌐 [lordayoyinka.github.io](https://lordayoyinka.github.io)
+- 💼 [GitHub Profile](https://github.com/lordayoyinka)
+- 📧 Reach out via LinkedIn or portfolio contact form  
