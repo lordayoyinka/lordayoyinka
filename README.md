@@ -48,9 +48,10 @@ I help individuals, schools, and businesses build reliable, modern, and sustaina
 
 🎨 Custom Graphics – Flyers, banners, and logos for clients across Nigeria
 
-📈 GitHub Stats
+### 📈 GitHub Stats
 
 ![Ayoyinka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordayoyinka&show_icons=true&theme=github_dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lordayoyinka&theme=github-dark)
 
 🚀 Top Languages
